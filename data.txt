@@ -1,0 +1,5 @@
+-------------------------
+2023-01-16 17:19:57,941 
+E-Note Title: pythone
+E-Note Description: core
+		Note Generator: arati
